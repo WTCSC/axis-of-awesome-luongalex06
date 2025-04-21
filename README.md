@@ -24,4 +24,6 @@ To run this project, you need:
 The program will output:
 - A **terminal chart** of the data set
 - A **bar graph** of the data set
+![alt text](image.png)
 - After exiting out of the bar graph, the **pie chart** will appear
+![alt text](image-1.png)
